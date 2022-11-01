@@ -1,6 +1,6 @@
 import streamlit_raster
 import streamlit as st
-import leafmap
+import leafmap.foliumap as leafmap
 
 st.set_page_config(layout="wide")
 
